@@ -4,7 +4,7 @@
 > profile
 ```
 
-<img align="left" src="github.jpg" width="130px"/> 
+<img align="left" src="thasup w[]ah.jpeg" width="130px"/> 
 
 ```csharp
 My Profile
@@ -20,7 +20,7 @@ Hobbies: Watching anime, Read Manga
 ```sh
 > Play Spotify <
 ```
-[![spotify-github-profile]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bj5c5pj2ayxhvokgq4us65huv4&cover_image=false&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=3700ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)) <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bj5c5pj2ayxhvokgq4us65huv4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=3700ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bj5c5pj2ayxhvokgq4us65huv4&redirect=true) <br>
 ```csharp
 ---------------------------------------
 ``` 
