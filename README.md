@@ -21,37 +21,42 @@ Hobbies: Watching anime, Read Manga
 > Play Spotify <
 ```
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bj5c5pj2ayxhvokgq4us65huv4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=3700ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bj5c5pj2ayxhvokgq4us65huv4&redirect=true) <br>
-```csharp
----------------------------------------
-``` 
-<div>
 
-<br>
-<h3 align="left">Contact with me:</h3>
-<a href="https://instagram.com/riskixd22"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.link/y8hl3m"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  
-<p align="left">
-  <a href="https://github.com/IbasRj"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IbasRj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
-</p>
 
-<p align="left">
-<a href="//github.com/IbasRj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbasRj"></a>
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibasrj23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibasrj23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
-</p>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+
+###
+
+<br clear="both">
+
+###
