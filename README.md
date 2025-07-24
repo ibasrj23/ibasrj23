@@ -21,7 +21,7 @@
 My Profile
 -------------------------------
 name: Ibas R.
-Instagram: @riskixd22.
+Instagram: @kyy_rj.
 FavouriteAnime:ワンピース (One Piece).
 Loves: Anime 🎮, Manga 🎹.
 Location: Planet Kepler-452b.
