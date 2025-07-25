@@ -35,6 +35,8 @@ Hobbies: Watching anime, Read Manga
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
