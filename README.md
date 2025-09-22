@@ -26,7 +26,11 @@ FavouriteAnime:ワンピース (One Piece).
 Loves: Anime 🎮, Manga 🎹.
 Location: Planet Kepler-452b.
 Hobbies: Watching anime, Read Manga
-``` 
+```
+<h3 align="left">Play Song</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xuawslw4lbdukccfs7fmd4f7au&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 <h3 align="left">Language and tools</h3>
 
