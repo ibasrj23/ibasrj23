@@ -27,7 +27,7 @@ Loves: Anime 🎮, Manga 🎹.
 Location: Planet Kepler-452b.
 Hobbies: Watching anime, Read Manga
 ```
-<h3 align="left">Play Song</h3>
+<h3 align="left">Spotify Play Now</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xuawslw4lbdukccfs7fmd4f7au&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
