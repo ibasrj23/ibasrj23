@@ -24,7 +24,6 @@ name: Ibas R.
 Instagram: @kyy_rj.
 FavouriteAnime:ワンピース (One Piece).
 Loves: Anime 🎮, Manga 🎹.
-Location: Planet Kepler-452b.
 Hobbies: Watching anime, Read Manga
 ```
 <h3 align="left">Spotify Play Now</h3>
