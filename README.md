@@ -21,7 +21,7 @@
 My Profile
 -------------------------------
 name: Ibas R.
-Instagram: @kyy_rj
+Instagram: @ibas_rj
 FavouriteAnime:ワンピース (One Piece).
 Loves: Anime 🎮, Manga 🎹.
 Hobbies: Watching anime, Read Manga
